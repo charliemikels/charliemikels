@@ -1,16 +1,18 @@
-### Hi there 👋
+# Charlie Mikels
 
-<!--
-**charliemikels/charliemikels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on a [terminal UI system for V](https://github.com/charliemikels/vtui)
 
-Here are some ideas to get you started:
+Github Projects:
+- [vtui](https://github.com/charliemikels/vtui)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages I work in most:
+- [V](https://github.com/vlang/v)
+- SQL
+- HTML/CSS/JS (a little)
+- Dart (less)
+
+Other intrests:
+- Blender
+
+Socials / Contact:
+- <a rel="me" href="https://toot.cafe/@Charlie">Mastodon</a>
