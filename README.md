@@ -1,11 +1,11 @@
 # Charlie Mikels
 
-I'm currently working on a [terminal UI system for V](https://github.com/charliemikels/vtui)
+I'm currently working on [corpus-christi](https://github.com/corpus-christi/corpus-christi)
 
 Github Projects:
 - [vtui](https://github.com/charliemikels/vtui)
 
-Languages I work in most:
+Languages I work in:
 - [V](https://github.com/vlang/v)
 - SQL
 - HTML/CSS/JS (a little)
