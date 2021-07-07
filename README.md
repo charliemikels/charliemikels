@@ -1,12 +1,16 @@
 # Charlie Mikels
 
-Github Projects:
+Current Projects:
+- [mcpkg](https://github.com/charliemikels/mcpkg)
+
+Other Projects:
 - [vtui](https://github.com/charliemikels/vtui)
 
 Languages I work in:
 - [V](https://github.com/vlang/v)
 - SQL
-- HTML/CSS/JS (a little)
+- HTML/CSS
+- JS (a little)
 - Dart (a little)
 
 Other intrests:
