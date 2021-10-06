@@ -3,18 +3,21 @@
 Current Projects:
 - [mcpkg](https://github.com/charliemikels/mcpkg)
 
-Other Projects:
-- [vtui](https://github.com/charliemikels/vtui)
-
-Languages I work in:
+Languages I mainly work in:
 - [V](https://github.com/vlang/v)
-- SQL
-- HTML/CSS
-- JS (a little)
-- Dart (a little)
+- T-SQL
+- HTML/CSS/JS
 
-Other intrests:
+Other languages I've worked with:
+- PHP / Appachie
+- Python
+- Dart
+- Java / Android App development. (Takeing a class on it now.)
+
+Other tools and intrests:
 - Blender
+- Krita
+- Inkscape
 
 Socials / Contact:
 - <a rel="me" href="https://toot.cafe/@Charlie">Mastodon</a>
