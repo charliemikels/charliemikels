@@ -12,7 +12,7 @@ Other languages I've worked with:
 - PHP / Appachie
 - Python
 - Dart
-- Java / Android App development. (Takeing a class on it now.)
+- Java / Android App development
 
 Other tools and intrests:
 - Blender
